@@ -31,4 +31,6 @@ let sentence_3 = "Choose a New Path";
 // Expected Ouput : I cant find 'Clarusway!'
 ```
 
-# Happy Coding
+<center> Happy Coding <center>
+
+<center><img src="https://drive.google.com/file/d/14GgD6Zqt7zXKhg5rIy9KtJcoAxqjiWuO/view?usp=sharing" alt="example"/><p>Output Example</p></center>
